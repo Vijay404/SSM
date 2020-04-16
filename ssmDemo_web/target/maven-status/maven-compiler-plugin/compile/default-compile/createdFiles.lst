@@ -1,0 +1,7 @@
+com\vijay\controller\PermissionController.class
+com\vijay\controller\SysLogController.class
+com\vijay\controller\OrdersController.class
+com\vijay\controller\UserController.class
+com\vijay\controller\RoleController.class
+com\vijay\controller\LogAop.class
+com\vijay\controller\ProductController.class

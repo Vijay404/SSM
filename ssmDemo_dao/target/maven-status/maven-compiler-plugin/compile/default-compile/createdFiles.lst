@@ -1,0 +1,8 @@
+com\vijay\dao\MemberDao.class
+com\vijay\dao\ProductDao.class
+com\vijay\dao\PermissionDao.class
+com\vijay\dao\TravellerDao.class
+com\vijay\dao\UserDao.class
+com\vijay\dao\SysLogDao.class
+com\vijay\dao\OrdersDao.class
+com\vijay\dao\RoleDao.class

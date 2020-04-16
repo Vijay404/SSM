@@ -1,0 +1,12 @@
+com\vijay\service\impl\UserServiceImpl.class
+com\vijay\service\RoleService.class
+com\vijay\service\UserService.class
+com\vijay\service\PermissionService.class
+com\vijay\service\ProductService.class
+com\vijay\service\impl\RoleServiceImpl.class
+com\vijay\service\impl\PermissionServiceImpl.class
+com\vijay\service\OrdersService.class
+com\vijay\service\SysLogService.class
+com\vijay\service\impl\OrdersServiceImpl.class
+com\vijay\service\impl\ProductServiceImpl.class
+com\vijay\service\impl\SysLogServiceImpl.class

@@ -1,0 +1,8 @@
+com\vijay\domain\Traveller.class
+com\vijay\domain\Permission.class
+com\vijay\domain\UserInfo.class
+com\vijay\domain\Role.class
+com\vijay\domain\Member.class
+com\vijay\domain\SysLog.class
+com\vijay\domain\Product.class
+com\vijay\domain\Orders.class
